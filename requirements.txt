@@ -1,0 +1,5 @@
+PyQt5>=5.15.0
+jinja2
+wordcloud
+pillow
+matplotlib
